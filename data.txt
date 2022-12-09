@@ -1,0 +1,15 @@
+add! 11 22 555 44
+0  , 1   2  3   4 
+
+index = 0
+
+s = add! 
+s = 11
+
+ i = (11) >> 1
+
+client[awf , 1 , 2]
+id    [11  , 1 , 2]
+
+
+11,qefwqwerfqwef
